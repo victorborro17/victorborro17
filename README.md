@@ -2,6 +2,7 @@ Olá, eu sou o Victor! 👋👾🚀
 
 👨‍💻 Sobre Mim:
 Sou um desenvolvedor front-end apaixonado por criar experiências digitais incríveis. Quando não estou codificando, você provavelmente me encontrará imerso no mundo dos games, explorando novas tecnologias ou maratonando meus animes favoritos.
+
 • Minha Essência:👾 Gamer | 💻 Tech enthusiast | 🎌 Cultura nerd & Animes
 • Foco Atual: Aperfeiçoar minhas habilidades em desenvolvimento web front-end e explorar o mundo nerd.
 
