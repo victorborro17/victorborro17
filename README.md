@@ -21,13 +21,6 @@ Sou apaixonado por criar experiências digitais incríveis. Quando não estou co
 </div>
 
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=victorborro17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborro17&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-</div>
-
 ## 📫 Vamos conversar? ☕
 
 Sinta-se à vontade para me contatar:
