@@ -4,15 +4,13 @@
 
 Sou apaixonado por criar experiências digitais incríveis. Quando não estou codificando, provavelmente estou imerso no mundo dos games, explorando novas tecnologias ou maratonando meus animes favoritos.
 
----
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim:
 
 - 🎯 **Foco Atual:** Aperfeiçoar minhas habilidades em desenvolvimento web Front-end.
 - 💡 **Minha Essência:** Mesclar tecnologia, usabilidade e cultura geek em meus projetos.
 - 🚀 *"Sempre em busca do próximo desafio!"*
 
----
 
 ## 🛠️ Tecnologias Principais
 
@@ -22,7 +20,6 @@ Sou apaixonado por criar experiências digitais incríveis. Quando não estou co
   </a>
 </div>
 
----
 
 ## 📊 Minhas Estatísticas
 
@@ -30,8 +27,6 @@ Sou apaixonado por criar experiências digitais incríveis. Quando não estou co
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=victorborro17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborro17&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </div>
-
----
 
 ## 📫 Vamos conversar? ☕
 
