@@ -4,13 +4,11 @@
 
 Sou apaixonado por criar experiências digitais incríveis. Quando não estou codificando, provavelmente estou imerso no mundo dos games, explorando novas tecnologias ou maratonando meus animes favoritos.
 
-
 ## 👨‍💻 Sobre Mim:
 
 - 🎯 **Foco Atual:** Aperfeiçoar minhas habilidades em desenvolvimento web Front-end.
 - 💡 **Minha Essência:** Mesclar tecnologia, usabilidade e cultura geek em meus projetos.
 - 🚀 *"Sempre em busca do próximo desafio!"*
-
 
 ## 🛠️ Tecnologias Principais
 
@@ -19,7 +17,6 @@ Sou apaixonado por criar experiências digitais incríveis. Quando não estou co
     <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tecnologias: HTML, CSS, JavaScript" />
   </a>
 </div>
-
 
 ## 📫 Vamos conversar? ☕
 
