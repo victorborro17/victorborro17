@@ -8,7 +8,9 @@ Sou apaixonado por criar experiências digitais incríveis. Quando não estou co
 👨‍💻 Sobre Mim:
 
 • 🎯 Foco Atual: Aperfeiçoar minhas habilidades em desenvolvimento web Front-end.
+
 • 💡 Minha Essência: Mesclar tecnologia, usabilidade e cultura geek em meus projetos.
+
 • 🚀 "Sempre em busca do próximo desafio!"
 
 
