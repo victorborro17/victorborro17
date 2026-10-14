@@ -14,7 +14,7 @@ Sou apaixonado por criar experiências digitais incríveis. Quando não estou co
 • 🚀 "Sempre em busca do próximo desafio!"
 
 
-🛠️ Tecnologias Principais
+🛠️ Tecnologias Principais:
 
 <div align="center">
 <a href="https://skillicons.dev">
